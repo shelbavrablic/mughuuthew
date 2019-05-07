@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fooliesian.swift.berlin/sitemap.xml
